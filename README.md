@@ -1,2 +1,2 @@
-# DL_homework
+# 0101-dl-homework
 homework for deep learning
